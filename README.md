@@ -1,6 +1,6 @@
 # AboutLibraries
 
-.. collects all dependency details including licenses at compile time, and offers simple APIs to visualize these in the app.
+Clipped from collects all dependency details including licenses at compile time, and offers simple APIs to visualize these in the app.
 *No runtime overhead.* Strong caching. Any gradle dependency is supported.
 
 -------
